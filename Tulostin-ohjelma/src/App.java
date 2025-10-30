@@ -12,8 +12,8 @@ public class App {
 
        int sum = num1 * num2;
 
-       System.out.println("Luku1 arvo " + num1);
-       System.out.println("Luku2 arvo " + num2);
+       System.out.println("Luku 1 arvo " + num1);
+       System.out.println("Luku 2 arvo " + num2);
 
        System.out.println(num1 + " * " + num2 + " = " + sum);
 
