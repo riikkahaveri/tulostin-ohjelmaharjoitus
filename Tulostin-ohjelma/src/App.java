@@ -4,7 +4,7 @@ public class App {
         System.out.println("Hei olen Tulostin-ohjelma");
        String name = "Riikka";
        
-       System.out.println("Ohjelman tekijä: " + name + " ! " );
+       System.out.println("Ohjelman tekijä: " + name );
 
        int num1 = 100;
        int num2 = 20;
