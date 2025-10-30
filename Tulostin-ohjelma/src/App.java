@@ -2,7 +2,7 @@ public class App {
     public static void main(String[] args) throws Exception {
      
         System.out.println("Hei olen Tulostin-ohjelma");
-       String name = "Riikka";
+       String name = "Riikka H.";
        
        System.out.println("Ohjelman tekijä: " + name );
 
